@@ -136,7 +136,7 @@ export function Landing() {
               <div className="flex items-center gap-4">
                 <img
                   alt="Man"
-                  src="icon.png"
+                  src="/icon.png"
                   className="h-16 w-16 rounded-full object-cover"
                 />
 
